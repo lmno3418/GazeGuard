@@ -76,7 +76,7 @@ from openpyxl import Workbook, load_workbook
 # Full code is available in the main.py file.
 ```
 ## Patent Information
- <a href="https://github.com/lmno3418/GazeGuard/blob/main/Patent.pdf"><h2>Patent</h2></a>
+ <a href="https://github.com/lmno3418/GazeGuard/blob/main/Patent.pdf">Patent</a><br>
 Title: Facial Guard Smart Glasses for Secure Attendance Capture<br>
 Patent Number: 202421016351 A<br>
 Filed in: India<br>
